@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atifnaeem4
 - 👀 I’m interested in Data Structure and Algorithms
 - 🌱 I’m currently doing Competitive Coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Software Developer role
 - 📫 reach me at jazzatif@gmail.com
 
 <!---
